@@ -1,0 +1,8 @@
+*.apk
+*.class
+.metadata
+bin
+gen
+.DS_Store
+*.sw*
+
